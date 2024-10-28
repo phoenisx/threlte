@@ -1,5 +1,12 @@
 # @threlte/extras
 
+## 9.0.0-next.29
+
+### Patch Changes
+
+- 81da20a: Fixed type of `scale` in `PerfMonitor`
+- 6016286: Adapted Threlte plugins to new plugin API
+
 ## 9.0.0-next.28
 
 ### Patch Changes
